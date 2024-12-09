@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 100vw; opacity: 0.2; background: url('https://github.com/estaesta/estaesta/assets/44913430/af66836b-365d-4ed0-879b-ccb8de3fa98c');background-size: cover; background-repeat: no-repeat;background-position: center;]{x0000}$}
+- 🌱 I’m currently learning DevOps and Golang
+- 👯 I’m looking for job (i need money and exp)
